@@ -34,7 +34,10 @@ Winning Percentage: 73.8%
 
 -------------------------
 
-These votes represent the votes in three counties: Jefferson, Denver and Arapahoe.  Diana DeGette was by far the winner in all three counties.
+These votes represent the votes in three counties: Jefferson, Denver and Arapahoe.  Diana DeGette was by far the winner in all three counties.  This was confirmed by looking at a
+pivot chart in Excel just to make sure there wasn't a small number of voters in a sparsely populated county voting for another candidate other than Diana DeGette.
+[results-by-county] /Resources/results_by_county.png
+
 
 
 
