@@ -93,6 +93,7 @@ outfile.close()
 # Close the file.
 election_data.close()
 
+
 # Write down the names of all the candidates. (a complete list of candidates who received votes)
 # Add a vote count for each candidate. 
 # Get the total votes for each candidate. (total number of votes each candidate received)
