@@ -43,34 +43,35 @@ After looking at the data by county in Excel, it seemed like Tom and the Colorad
 analysis already provided. Ability to output the election results to a data file in text format was also added.  The addition of conditional loops and file writing statements
 allowed these additional features of the project.
 
-
-## Summary of Election Audit (by county)
-From our previous analysis, we know that 369,711 votes in total were cast in this precinct in three counties for three different candidates.f
-
+## Election Audit Results (by county)
+From our previous analysis, we know that 369,711 votes in total were cast in this precinct in three counties for three different candidates.
+  * 369,711 total votes
+  
 It was determined that the number of votes and percentage of votes in the counties broke down as follows:
 
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+* Jefferson: 10.5% (38,855)
+* Denver: 82.8% (306,055)
+* Arapahoe: 6.7% (24,801)
 
-Denver county had the largest number of votes.
+* Denver county had the largest number of votes.
 
 From our previous analysis we know that votes were cast for the following candidates, with the associated percentages of total votes, as follows:
 
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.2% (11,606)
+* Charles Casper Stockham: 23.0% (85,213)
+* Diana DeGette: 73.8% (272,892)
+* Raymon Anthony Doane: 3.2% (11,606)
 
 And, again, we know that the winner was Diana DeGette with the following vote count and total percentage of votes.
 
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
+* Winner: Diana DeGette
+* Winning Vote Count: 272,892
+* Winning Percentage: 73.8%
 
+## Election Audit Summary
 To make this analysis more robust, it would benefit from adding population figures to determine the percentage of registered voters.  It is possible that counties with smaller
 populations, but with a higher percentage of registered voters, than Denver county actually may have had a higher voter turnout, but we don't have the data to determine that.  For
 instance if Arapahoe county only has 24,801 residents then their voter turnout would be 100%, but only 6.7% of the total votes cast in the election.  It
-might also be interesting to see if the winner of the election consistently had such popular support across counties when population is taken into account, and not just straight number of vote totals.
+might also be interesting to see if the winner of the election consistently had such popular support across counties when population is taken into account, and not just straight number of vote totals.  It is entirely possible that all of Diana DeGette's voters are in Denver county with all of Doane's and Stockham's in the other two, less populated, counties.
 
 This project is a good foundation for future developments and distribution.
 
