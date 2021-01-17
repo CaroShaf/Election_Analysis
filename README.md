@@ -14,7 +14,7 @@ Requirements of this application are:
 
 ## Resources
 The data source provided from three different methods of voting were compiled into one comma separated values file: election_results.csv.
-Software used to complete the task:  Python 3.7.6, Visual Studio Code 1.52.1
+Software used to complete the task:  Python 3.7.6, Visual Studio Code 1.52.1 (additional task completed with Microsoft 365 Excel)
 
 ## Summary
 The analysis of the election results show that:
