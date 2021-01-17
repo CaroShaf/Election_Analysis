@@ -41,9 +41,10 @@ pivot chart in Excel just to make sure there wasn't a small number of voters in 
 
 ## Overview of Election Audit (by county)
 After looking at the data by county in Excel, it seemed like Tom and the Colorado Board of Elections would benefit from integrating an analysis on the county level into the election 
-analysis already provided. Ability to output the election results to a data file in text format was also added. (This output can be seen in a screen shot here:https://github.com/CaroShaf/Election_Analysis/blob/main/Resources/textfileoutput.png ; as well as the output through the terminal here:    The addition of
-conditional loops and file writing statements
-allowed these additional features of the project.
+analysis already provided. Ability to output the election results to a data file in text format was also added. (This output can be seen in a screen shot here:
+https://github.com/CaroShaf/Election_Analysis/blob/main/Resources/textfileoutput.png ; as well as the output through the terminal here: 
+https://github.com/CaroShaf/Election_Analysis/blob/main/Resources/terminalprintscreen.png ) The addition of conditional loops and file writing statementsallowed these additional 
+features of the project.
 
 ## Election Audit Results (by county)
 From our previous analysis, we know that 369,711 votes in total were cast in this precinct in three counties for three different candidates.
@@ -73,7 +74,8 @@ And, again, we know that the winner was Diana DeGette with the following vote co
 To make this analysis more robust, it would benefit from adding population figures to determine the percentage of registered voters.  It is possible that counties with smaller
 populations, but with a higher percentage of registered voters, than Denver county actually may have had a higher voter turnout, but we don't have the data to determine that.  For
 instance if Arapahoe county only has 24,801 residents then their voter turnout would be 100%, but only 6.7% of the total votes cast in the election.  It
-might also be interesting to see if the winner of the election consistently had such popular support across counties when population is taken into account, and not just straight number of vote totals.  It is entirely possible that all of Diana DeGette's voters are in Denver county with all of Doane's and Stockham's in the other two, less populated, counties.
+might also be interesting to see if the winner of the election consistently had such popular support across counties when population is taken into account, and not just straight
+number of vote totals.  It is entirely possible that all of Diana DeGette's voters are in Denver county with all of Doane's and Stockham's in the other two, less populated, counties.
 
 This project is a good foundation for future developments and distribution.
 
