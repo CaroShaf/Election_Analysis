@@ -13,7 +13,7 @@ Requirements of this application are:
 5. Winner of the election based on popular vote
 
 ## Resources
-The data source provided from three different methods of voting were compiled into one comma separated values file: election_results.csv.
+The data source provided from three different methods of voting were compiled into one comma separated values file: election_results.csv. This file is located at 
 Software used to complete the task:  Python 3.7.6, Visual Studio Code 1.52.1 (additional task completed with Microsoft 365 Excel)
 
 ## Summary
