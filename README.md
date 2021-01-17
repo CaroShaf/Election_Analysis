@@ -41,7 +41,7 @@ pivot chart in Excel just to make sure there wasn't a small number of voters in 
 
 ## Overview of Election Audit (by county)
 After looking at the data by county in Excel, it seemed like Tom and the Colorado Board of Elections would benefit from integrating an analysis on the county level into the election 
-analysis already provided. Ability to output the election results to a data file in text format was also added.  The addition of conditional loops and file writing statements
+analysis already provided. Ability to output the election results to a data file in text format was also added. (This output can be seen in a screen shot here:   The addition of conditional loops and file writing statements
 allowed these additional features of the project.
 
 ## Election Audit Results (by county)
